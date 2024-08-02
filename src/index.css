@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ss{
+  background-image: url("./assets/img/Rectangle 17.png");
+  background-size: cover;
+  background-position: fixed;
+  background-repeat: no-repeat;
+}
